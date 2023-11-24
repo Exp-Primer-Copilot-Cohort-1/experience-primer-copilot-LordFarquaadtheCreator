@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "LordFarquaad's HAL",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
